@@ -12,3 +12,7 @@ An example of the client request can be found in teh "client.js" file but is ess
 ![image](https://user-images.githubusercontent.com/96030208/198846834-4cdd9fad-aa80-4abc-9008-310cfb0b55e9.png)
 
 Once the server is running, the GET request will contact the server at Port8000 and receive the image as a response.  It will then save the image - in this example, the image is saved in the same folder- and the image is available to use in a web app.    
+
+Here is a video walkthrough that demonstrates how the microservice works: 
+
+https://media.oregonstate.edu/media/t/1_sfuogdrj
